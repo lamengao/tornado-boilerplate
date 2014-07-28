@@ -1,0 +1,39 @@
+\.idea
+*.py[cod]
+.DS_store
+*.swp
+*~
+/dump.rdb
+/log/*.log
+/logs/*.log
+node_modules/
+app/static/.sass-cache/
+app/.sass-cache/
+app/bower_components/
+conf/*.vim
+
+# Virtualenv
+/env/
+/.vagrant/
+
+# Mac OS X custom attribute files
+.DS_Store
+
+# Packages
+*.egg
+*.egg-info
+dist
+*build
+eggs
+parts
+bin
+var
+sdist
+develop-eggs
+.installed.cfg
+
+# Installer logs
+pip-log.txt
+
+#Translations
+*.mo
